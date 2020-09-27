@@ -1,5 +1,5 @@
 gunicorn==19.9.0
-opencv>=4.3.0
+cv2>=4.3.0
 keras>=2.3.1
 streamlit>=0.65.2
 tensorflow>=1.15.0
