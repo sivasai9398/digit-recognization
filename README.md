@@ -21,8 +21,21 @@ pip install -r requirements.txt
 
 4. At last, push in the command:
 ```sh
-python app.py
+streamlit run app.py
 ```
 
-5. Go to ` http://127.0.0.1:5000/` and enjoy the application.
+5. Now the streamlit application will be opened in the browser and u can enjoy the application
+
+<p align="center">
+  <img src="C:\Users\sivasai\Pictures\Screenshots\Screenshot (146).png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">digit-recognization</h3>
+
+  <p align="center">
+    A Deep Learning Application developed and deployed on streamlit Web Framework to predict the digits on a image
+    <br />
+    
+  </p>
+</p>
 
