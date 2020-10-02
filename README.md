@@ -26,16 +26,5 @@ streamlit run app.py
 
 5. Now the streamlit application will be opened in the browser and u can enjoy the application
 
-<p align="center">
-  <img src="[![Screenshot-146.png](https://i.postimg.cc/QMzvYJkP/Screenshot-146.png)](https://postimg.cc/DWqC8sNd)" width="80" height="80">
-  </a>
 
-  <h3 align="center">digit-recognization</h3>
-
-  <p align="center">
-    A Deep Learning Application developed and deployed on streamlit Web Framework to predict the digits on a image
-    <br />
-    
-  </p>
-</p>
 
